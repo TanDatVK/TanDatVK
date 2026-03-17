@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=6C63FF&height=200&section=header&text=Tấn%20Đạt&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&stroke=6C63FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6C63FF&height=220&section=header&text=Trần%20Tấn%20Đạt&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20HUTECH&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <br/>
 
@@ -138,21 +138,12 @@ Civic-tech platform tối ưu hóa chiếu sáng đô thị — người dân b�
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&hide_border=true&icon_color=6C63FF&title_color=6C63FF&rank_icon=github" height="180" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&theme=github-dark-blue&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="180" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&rank_icon=github" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" height="180" />
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TanDatVK&bg_color=00000000&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanDatVK&bg_color=ffffff&color=6C63FF&line=6C63FF&point=333333&area=true&area_color=6C63FF&hide_border=true" width="95%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanDatVK&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="95%" />
 
 </div>
 
@@ -161,10 +152,7 @@ Civic-tech platform tối ưu hóa chiếu sáng đô thị — người dân b�
 <br/>
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=c9d1d9&langs_count=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=compact&hide_border=true&title_color=6C63FF&langs_count=10" width="45%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=10" width="45%" />
 
 <br/><br/>
 
@@ -188,6 +176,6 @@ Civic-tech platform tối ưu hóa chiếu sáng đô thị — người dân b�
   
 <img src="https://komarev.com/ghpvc/?username=TanDatVK&label=profile+views&color=6C63FF&style=flat" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=6C63FF&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6C63FF&height=100&section=footer" width="100%"/>
 
 </div>
