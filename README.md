@@ -1,155 +1,193 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6C63FF&height=220&section=header&text=Trần%20Tấn%20Đạt&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20HUTECH&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=1500&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Top+16+%E2%80%94+Procon+Vietnam+2025+%F0%9F%8F%86;Building+AI-Powered+Applications+%F0%9F%A4%96;Passionate+About+Clean+Code+%26+UX+%E2%9C%A8" alt="Typing SVG" /></a>
+  
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=6C63FF&height=200&section=header&text=Tấn%20Đạt&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&stroke=6C63FF&strokeWidth=2" width="100%"/>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/-trantandat612004@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:trantandat612004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Tấn%20Đạt%20Trần-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%E1%BA%A5n-%C4%91%E1%BA%A1t-tr%E1%BA%A7n-7aba633b6/)
-[![GitHub](https://img.shields.io/badge/-TanDatVK-181717?style=flat&logo=github&logoColor=white)](https://github.com/TanDatVK)
+<!-- TAGLINE -->
+
+**`Software Engineer Student`** · **`AI Enthusiast`** · **`Competitive Programmer`**
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://github.com/TanDatVK?tab=followers">
+  <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/TanDatVK?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+<a href="https://github.com/TanDatVK?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TanDatVK?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+<a href="https://www.linkedin.com/in/t%E1%BA%A5n-%C4%91%E1%BA%A1t-tr%E1%BA%A7n-7aba633b6/">
+  <img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:trantandat612004@gmail.com">
+  <img alt="email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About
 
-Mình là sinh viên năm tư ngành **Công nghệ Thông tin** tại Đại học Công nghệ TP.HCM (**HUTECH**). Đam mê phát triển sản phẩm phần mềm, đặc biệt là ứng dụng **AI** vào các giải pháp thực tế.
+Sinh viên năm tư ngành **Công nghệ Thông tin** tại **Đại học Công nghệ TP.HCM (HUTECH)**. Mình quan tâm đến việc xây dựng sản phẩm phần mềm có ý nghĩa — từ nền tảng tuyển dụng AI, ứng dụng học code gamified, đến hệ thống nhận diện thủ ngữ hỗ trợ người khuyết tật.
 
-Mình từng tham gia **Olympic Procon 2025** cùng 2 thành viên và đạt **Top 16** toàn quốc. Hiện tại đang tập trung vào AI/ML, System Design, và hoàn thành năm cuối đại học.
+Ngoài học tập, mình tích cực tham gia các cuộc thi lập trình và hackathon. Gần đây nhất, mình cùng 2 đồng đội đạt **Top 16 tại Procon Vietnam 2025**.
 
 ---
 
-### 🏆 Achievements
+### 🏆 Thành Tích
+
+| Cuộc Thi | Kết Quả |
+|:---|:---|
+| **Procon Vietnam 2025** | 🏅 Top 16 toàn quốc |
+| **Procon HUTECH 2025** | 🎖️ Giải khuyến khích |
+| **Low-code N8N — HUTECH** | 🥈 Giải nhì |
+| **Design Your Future** | 🎖️ Giải khuyến khích |
+
+---
+
+### 🧰 Languages & Tools
+
+<div align="center">
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,ts,js,python,dart,nodejs,mysql,supabase,flutter,git,github,gitlab,figma,vscode&perline=9&theme=dark" />
+</a>
+
+<br/><br/>
+</div>
+
+<details>
+<summary>📋 Chi tiết phân loại</summary>
+<br/>
+
+| Nhóm | Công nghệ |
+|:---|:---|
+| **Frontend** | React · Next.js · HTML5 · CSS3 · Tailwind CSS |
+| **Languages** | TypeScript · JavaScript · Python · Dart |
+| **Backend** | Node.js |
+| **Database** | MySQL · Supabase |
+| **Mobile** | Flutter |
+| **Tools** | Git · GitHub · GitLab · Figma · Jira · VS Code |
+
+</details>
+
+---
+
+### 🚀 Projects
 
 <table>
-  <tr>
-    <td align="center"><b>🥈 Giải Nhì</b><br/><sub>Low-code N8N · HUTECH</sub></td>
-    <td align="center"><b>🎖️ Giải Khuyến Khích</b><br/><sub>Design Your Future</sub></td>
-    <td align="center"><b>🎖️ Giải Khuyến Khích</b><br/><sub>Procon HUTECH 2025</sub></td>
-    <td align="center"><b>🏅 Top 16</b><br/><sub>Procon Vietnam 2025</sub></td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+#### [🤟 Vietnamese Sign Language](https://github.com/TanDatVK/sign-language-learning)
+
+Website học thủ ngữ tích hợp **AI nhận diện thủ ngữ** real-time qua camera — dịch sang ký tự để người bình thường hiểu được người khuyết tật đang giao tiếp.
+
+`AI/ML` `Computer Vision` `TensorFlow` `Accessibility`
+
+⭐ 5 stars
+
+</td>
+
+<td width="50%" valign="top">
+
+#### [📚 Coalingo](https://github.com/TanDatVK/Coalingo)
+
+Nền tảng học code phong cách **Duolingo** — bài học gen bằng AI, trắc nghiệm đa dạng, luyện code trực tiếp, streak & XP gamification.
+
+`AI-Powered` `Gamification` `EdTech`
+
+⭐ 2 stars
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+#### 🤖 SmartHire AI
+
+Nền tảng tuyển dụng thông minh — Smart CV Builder (xuất PDF), AI Mock Interview, ATS candidate pipeline, Admin dashboard analytics.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+</td>
+
+<td width="50%" valign="top">
+
+#### [🏙️ UrbanReflex](https://github.com/TanDatVK/UrbanReflex)
+
+Civic-tech platform tối ưu hóa chiếu sáng đô thị — người dân báo cáo geo-tagged, hệ thống gợi ý lịch chiếu sáng theo thời gian thực.
+
+`Civic Tech` `Geolocation` `Smart City`
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-### 🛠 Tech Stack
+### 📊 Stats
 
 <div align="center">
 
-**Frontend**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-</a>
-
-**Languages**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart&theme=dark" />
-</a>
-
-**Backend & Database**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,supabase&theme=dark" />
-</a>
-
-**Tools**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,flutter&theme=dark" />
-</a>
-
-</div>
-
----
-
-### 🚀 Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 SmartHire AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-      </p>
-      <p>Nền tảng tuyển dụng thông minh — Smart CV Builder, AI Mock Interview, ATS pipeline cho nhà tuyển dụng, Admin dashboard analytics.</p>
-      <p><b>Focus:</b> Product UI · Multi-role flow · Dashboard</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Coalingo</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI_Powered-4CAF50?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gamified-FFD700?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Interactive-6C63FF?style=flat-square"/>
-      </p>
-      <p>Duolingo cho coding — học lập trình qua chuỗi bài học gen bằng AI, bài tập trắc nghiệm đa dạng, luyện code trực tiếp, hệ thống streak & XP.</p>
-      <p><b>Repo:</b> <a href="https://github.com/TanDatVK/Coalingo">Coalingo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤟 Vietnamese Sign Language</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Accessibility-0078D4?style=flat-square"/>
-      </p>
-      <p>Website học thủ ngữ giao tiếp — tích hợp model nhận diện thủ ngữ real-time qua camera, dịch sang văn bản giúp người bình thường hiểu người khuyết tật.</p>
-      <p><b>Repo:</b> <a href="https://github.com/TanDatVK/sign-language-learning">sign-language-learning</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏙️ UrbanReflex</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Civic_Tech-2196F3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Geolocation-34A853?style=flat-square&logo=googlemaps&logoColor=white"/>
-      </p>
-      <p>Nền tảng civic-tech tối ưu đèn đường đô thị — người dân gửi báo cáo geo-tagged về điểm tối/sáng, hệ thống gợi ý lịch chiếu sáng theo thời gian.</p>
-      <p><b>Repo:</b> <a href="https://github.com/TanDatVK/UrbanReflex">UrbanReflex</a></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&rank_icon=github" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" height="170" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&hide_border=true&icon_color=6C63FF&title_color=6C63FF&rank_icon=github" height="180" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&theme=github-dark-blue&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="180" />
+</picture>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" height="170" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanDatVK&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TanDatVK&bg_color=00000000&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanDatVK&bg_color=ffffff&color=6C63FF&line=6C63FF&point=333333&area=true&area_color=6C63FF&hide_border=true" width="95%" />
+</picture>
 
 </div>
 
+<details>
+<summary>📈 Thêm thống kê</summary>
+<br/>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=c9d1d9&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=compact&hide_border=true&title_color=6C63FF&langs_count=10" width="45%" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TanDatVK&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+
+</div>
+</details>
+
 ---
 
-### 🎯 Currently Focusing On
-
-```
-🧠 AI & Machine Learning        ·  Exploring LLMs, Computer Vision
-⚛️ Web Development              ·  Next.js, React ecosystem
-📱 Mobile Development           ·  Flutter, cross-platform apps
-☁️ Cloud & DevOps               ·  Deployment, CI/CD pipelines
-```
+<!-- SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanDatVK/TanDatVK/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanDatVK/TanDatVK/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TanDatVK/TanDatVK/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 ---
 
 <div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=TanDatVK&label=profile+views&color=6C63FF&style=flat" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=6C63FF&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
