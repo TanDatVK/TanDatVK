@@ -19,7 +19,10 @@
 
 ## About Me
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6" />
+  <img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=donut&hide_border=true&bg_color=ffffff&title_color=6C63FF&text_color=333333&langs_count=6" />
+</picture>
 
 I'm a senior **Information Technology** student at **HUTECH** (Ho Chi Minh City University of Technology), focused on building AI-powered software that solves real problems — from recruitment automation to sign language recognition for accessibility.
 
@@ -128,12 +131,21 @@ A civic-tech solution for urban street lighting optimization. Citizens submit ge
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&rank_icon=github" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&hide_border=true&bg_color=ffffff&icon_color=6C63FF&title_color=6C63FF&text_color=333333&rank_icon=github" height="180" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&hide_border=true&background=ffffff&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=333333&dates=888888" height="180" />
+</picture>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanDatVK&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TanDatVK&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanDatVK&bg_color=ffffff&color=6C63FF&line=6C63FF&point=333333&area=true&area_color=6C63FF&hide_border=true" width="95%" />
+</picture>
 
 </div>
 
