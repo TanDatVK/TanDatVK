@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6C63FF&height=230&section=header&text=Trần%20Tấn%20Đạt&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-Powered%20Solutions%20That%20Matter&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Senior+IT+Student+%40+HUTECH;Top+16+%E2%80%94+Procon+Vietnam+2025;AI+%2B+Web+Developer;Competitive+Programmer+%26+Hackathon+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Top+16+%E2%80%94+Procon+Vietnam+2025;AI+%2B+Web+Developer;Competitive+Programmer+%26+Hackathon+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
