@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanDatVK&layout=donut&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=c9d1d9&langs_count=6" />
+<img align="right" width="280" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanDatVK&layout=donut&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=c9d1d9&langs_count=6" />
 
 I'm a senior **Information Technology** student at **HUTECH** (Ho Chi Minh City University of Technology), focused on building AI-powered software that solves real problems — from recruitment automation to sign language recognition for accessibility.
 
@@ -128,7 +128,7 @@ A civic-tech solution for urban street lighting optimization. Citizens submit ge
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanDatVK&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&rank_icon=github" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanDatVK&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&rank_icon=github" height="180" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanDatVK&theme=github-dark-blue&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" height="180" />
 
 <br/>
